@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<title>Lucrare de control.Varianta 1</title>
+<body bgcolor=yellow text=red></body>
+</body>
+<p
+
+
+
+
+
+</body>
+</html>
